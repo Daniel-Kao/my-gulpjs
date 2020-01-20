@@ -1,0 +1,4 @@
+{
+  "API": "api",
+  "PROXY": "http://localhost:3000"
+}

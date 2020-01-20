@@ -1,0 +1,27 @@
+{
+  "name": "my-pr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.8.3",
+    "@babel/preset-env": "^7.8.3",
+    "gulp": "^4.0.2",
+    "gulp-connect": "^5.7.0",
+    "gulp-imagemin": "^7.0.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-uglify": "^3.0.2",
+    "http-proxy-middleware": "^0.20.0",
+    "node-sass": "^4.13.1",
+    "readable-stream": "^3.5.0"
+  },
+  "dependencies": {
+    "gulp-babel": "^8.0.0"
+  }
+}

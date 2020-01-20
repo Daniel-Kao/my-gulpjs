@@ -1,0 +1,1 @@
+"use strict";console.log("thiss is fiel one"),console.log("file number 2");var user={name:"daniel",age:123},name=user.name,age=user.age;console.log(age);var promise=new Promise.resolve(12);console.log(promise);
